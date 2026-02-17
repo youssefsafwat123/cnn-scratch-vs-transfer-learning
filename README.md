@@ -19,7 +19,7 @@ The goal was to compare a custom-built Convolutional Neural Network (CNN) agains
 ### 📈 Performance Comparison
 
 #### Custom CNN (Scratch)
-![Scratch Model Graph](scratch_results.png)
+![Scratch Model Graph](scratch results.png)
 
 #### MobileNetV2 (Transfer Learning)
-![Transfer Learning Graph](transfer_results.png)
+![Transfer Learning Graph](transfer results.png)
