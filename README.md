@@ -15,3 +15,11 @@ The goal was to compare a custom-built Convolutional Neural Network (CNN) agains
 ## 📊 Results
 - **Scratch Model:** Reached ~85% training accuracy (showed signs of overfitting).
 - **Transfer Learning:** Achieved high validation stability (~78%+) with much faster training times per epoch.
+
+### 📈 Performance Comparison
+
+#### Custom CNN (Scratch)
+![Scratch Model Graph](scratch_results.png)
+
+#### MobileNetV2 (Transfer Learning)
+![Transfer Learning Graph](transfer_results.png)
